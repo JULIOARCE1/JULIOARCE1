@@ -1,13 +1,16 @@
 <div align="center">
 
-  <!-- Encabezado con animaciones a los lados -->
   <h1>
-    <img src="./assets/luffy.gif" width="38" height="38" alt="Luffy" style="vertical-align: middle;" />
-    ¡Hola, soy Julio!
-    <img src="./assets/river.gif" width="38" height="38" alt="River Plate" style="vertical-align: middle;" />
+    <!-- Luffy pixel gif -->
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Luffy.gif" width="45" height="45" alt="Luffy" style="vertical-align: middle;" />
+    
+    ¡Hola, soy Gabriel!
+    
+    <!-- River Plate escudo animado -->
+    <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="40" height="40" alt="River Plate" style="vertical-align: middle;" />
   </h1>
 
-  <p>⚪🔴⚪</p>
+  <p>🚀 Desarrollador de Software | Estudiante de Ingeniería Informática ⚪🔴⚪</p>
 
 </div>
 
