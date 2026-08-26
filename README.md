@@ -1,18 +1,17 @@
-<div align="center">
-  <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Luffy.gif" width="40" height="40" alt="Luffy" /> ¡Hola, soy Gabriel! <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Escudo_del_C_A_River_Plate.svg" width="32" height="32" alt="River Plate" /></h1>
-  <p>🚀 Desarrollador de Software | Estudiante de Ingeniería Informática ⚪🔴⚪</p>
-</div>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Luffy.gif" width="38" height="38" align="center" /> ¡Hola, soy Gabriel! <img src="https://raw.githubusercontent.com/julianm99/River-Plate-Logos/master/img/river-plate-logo.png" width="36" height="36" align="center" />
+
+🚀 Desarrollador de Software | Estudiante de Ingeniería Informática ⚪🔴⚪
 
 ---
 
 ### 🛠️ Tecnologías & Lenguajes
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,java,spring,mysql,postgres,mongodb,git,github,linux" alt="Tech Stack" />
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <sub>Hecho con pasión por el código y el buen fútbol 🎩⚽</sub>
-</div>
+</p>
