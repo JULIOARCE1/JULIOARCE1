@@ -1,27 +1,26 @@
 <div align="center">
-  <!-- GIF One Piece -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk2YTZpZXR1ZzN5NG52ZTRmdG1nbWk2M295enhyOXg4N3N4NGR1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEJB0l5RSM/giphy.gif" width="120" alt="Luffy One Piece" />
 
-  # ¡Hola, soy Julio! 👋
-  
-  
-  <!-- Badge River Plate -->
-  <img src="https://img.shields.io/badge/River%20Plate-White?style=for-the-badge&logoColor=red&labelColor=white&color=E4002B" alt="River Plate" />
+  <!-- Encabezado con animaciones a los lados -->
+  <h1>
+    <img src="./assets/luffy.gif" width="38" height="38" alt="Luffy" style="vertical-align: middle;" />
+    ¡Hola, soy Julio!
+    <img src="./assets/river.gif" width="38" height="38" alt="River Plate" style="vertical-align: middle;" />
+  </h1>
+
+  <p>⚪🔴⚪</p>
+
 </div>
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🛠️ Tecnologías & Lenguajes
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,postgres,linux,bash,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,spring,mysql,postgres,mongodb,git,github,linux" alt="Tech Stack" />
 </div>
 
 ---
 
-### 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Langs" />
+  <sub>Hecho con pasión por el código y el buen fútbol 🎩⚽</sub>
 </div>
